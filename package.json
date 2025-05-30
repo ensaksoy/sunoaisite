@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ensaksoy.github.io/sunoaisite"
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -30,4 +31,5 @@
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
   }
-}
+}"homepage": "https://ensaksoy.github.io/sunoaisite"
+
